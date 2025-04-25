@@ -1,2 +1,3 @@
-# Programação Funcional
-Realização de exercícios e exames no âmbito da unidade curricular de programação funcional do primeiro ano de Licenciatura em Engenharia Informática.
+# Functional Programming
+
+Solved exercises and exams within the scope of the functional programming curricular unit of the first year of the Degree in Software Engineering.
